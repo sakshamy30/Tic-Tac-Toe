@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.firstRow {
+    margin-left: 40%;
+    margin-top: 40px;
+}
+
+.secondRow {
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+.thirdRow {
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+.reset {
+    margin-left: 48%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#second {
+    margin-left: 20px;
+}
+
+#third {
+    margin-left: 20px;
+}
+
+#fifth {
+    margin-left: 20px;
+}
+
+#sixth {
+    margin-left: 20px;
+}
+
+#eight {
+    margin-left: 20px;
+}
+
+#ninth {
+    margin-left: 20px;
+}
+
+div button{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}
+
+#msg{
+    margin-left: 43%;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.hidden {
+    display: none;
+}
